@@ -1,0 +1,10 @@
+.class{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    background-color: #111;
+}
