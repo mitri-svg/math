@@ -21,10 +21,11 @@
 // console.log(limit2);
 
 let user1 = prompt("User 1 adiviz-i daxil edin:")
-let user2 = prompt("User 2 adiviz-i daxil edin:")
-
 let eded1 = +prompt("User 1 reqem yazin:(1 ,5 arasi ededler) :")
+
+let user2 = prompt("User 2 adiviz-i daxil edin:")
 let eded2 = +prompt("User 2 reqem yazin:(1 ,5 arasi ededler) :")
+
 let random = Math.floor(Math.random() * 5)+1
 
 if (eded1 == random) {
